@@ -109,5 +109,10 @@
         android:layout_height="wrap_content"
         android:text="@string/user_login"
         app:layout_constraintBottom_toBottomOf="parent" />
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+
+        />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
